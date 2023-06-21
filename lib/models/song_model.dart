@@ -13,7 +13,7 @@ class Song {
 
   static List<Song> songs = [
     Song(
-      title: 'Anima Ft Sheera - Moon',
+      title: 'Anima & Sheera - Moon',
       description: 'Anima Ft Sheera - Moon',
       url: "assets/music/Moon.mp3",
       coverUrl: "assets/images/Moon.jpg",

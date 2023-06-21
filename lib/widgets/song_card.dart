@@ -48,17 +48,21 @@ class SongCard extends StatelessWidget {
                         songs.title,
                         style: Theme.of(context).textTheme.bodyLarge!.copyWith(
                             color: Colors.deepPurple,
+                            fontSize: 10,
                             fontWeight: FontWeight.bold),
                       ),
                       Text(
                         songs.title,
                         style: Theme.of(context).textTheme.bodySmall!.copyWith(
-                            color: Colors.grey, fontWeight: FontWeight.bold),
+                              color: Colors.grey,
+                              fontSize: 12,
+                            ),
                       )
                     ],
                   ),
                   const Icon(
                     Icons.play_circle,
+                    size: 17,
                     color: Colors.deepPurple,
                   )
                 ],
