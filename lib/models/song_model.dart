@@ -21,13 +21,13 @@ class Song {
     Song(
       title: 'Argy - Magic Order',
       description: 'Argy - Magic Order',
-      url: "assets/music/magicOrder.mp3.mp3",
+      url: "assets/music/magicOrder.mp3",
       coverUrl: "assets/images/magicOrder.jpg",
     ),
     Song(
       title: 'CamelPhat - Spektrum ',
       description: 'CamelPhat - Spektrum',
-      url: "assets/music/spektrum.mp3.mp3",
+      url: "assets/music/spektrum.mp3",
       coverUrl: "assets/images/spektrum.jpg",
     ),
   ];
