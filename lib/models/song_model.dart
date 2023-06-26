@@ -31,4 +31,18 @@ class Song {
       coverUrl: "assets/images/spektrum.jpg",
     ),
   ];
+  static List<Song> hipHop = [
+    Song(
+      title: 'Lighters',
+      description: 'Bad Meets Evil/Bruno Mars-Lighters',
+      url: "assets/music/lighters.mp3",
+      coverUrl: "assets/images/badmeetsEvil.jpg",
+    ),
+    Song(
+      title: 'I feel it coming',
+      description: 'The Weeknd/Daft Punk-I Feel It Coming',
+      url: "assets/music/ifeelitcoming.mp3",
+      coverUrl: "assets/images/ifeelitcoming.png",
+    ),
+  ];
 }
