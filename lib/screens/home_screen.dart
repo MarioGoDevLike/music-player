@@ -147,6 +147,7 @@ class _DiscoverMusic extends StatelessWidget {
                 border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(15.0),
                     borderSide: BorderSide.none)),
+            style: TextStyle(color: Colors.grey.shade400),
           )
         ],
       ),
