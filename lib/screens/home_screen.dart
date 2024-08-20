@@ -19,7 +19,7 @@ class HomeScreen extends StatelessWidget {
           end: Alignment.bottomCenter,
           colors: [
             Colors.deepPurple.shade800.withOpacity(0.8),
-            Colors.deepPurple.shade200.withOpacity(0.2),
+            Colors.deepPurple.shade200.withOpacity(0.3),
           ],
         ),
       ),

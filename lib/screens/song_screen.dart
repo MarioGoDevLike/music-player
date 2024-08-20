@@ -47,6 +47,7 @@ class _SongScreenState extends State<SongScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      // App bar initiation
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
